@@ -1,0 +1,12 @@
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\bin\Debug\MegaDesk-3-MeghanShannon.exe.config
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\bin\Debug\MegaDesk-3-MeghanShannon.exe
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\bin\Debug\MegaDesk-3-MeghanShannon.pdb
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk-3-MeghanShannon.csprojResolveAssemblyReference.cache
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk_3_MeghanShannon.AddQuote.resources
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk_3_MeghanShannon.MainMenu.resources
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk_3_MeghanShannon.Properties.Resources.resources
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk-3-MeghanShannon.csproj.GenerateResource.Cache
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk-3-MeghanShannon.exe
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk-3-MeghanShannon.pdb
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk_3_MeghanShannon.DisplayQuote.resources
+D:\CProjects\MegaDesk-3-MeghanShannon\MegaDesk-3-MeghanShannon\obj\Debug\MegaDesk_3_MeghanShannon.SearchQuotes.resources
